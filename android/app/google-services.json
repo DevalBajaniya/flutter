@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974944341773",
+    "project_id": "fir-notification-b033c",
+    "storage_bucket": "fir-notification-b033c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974944341773:android:c146284f12a523aed46a44",
+        "android_client_info": {
+          "package_name": "com.deval.shared_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974944341773-99368js18av04j7sj8qqgkskdrbt0v1q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOq2AICgbjhUrMWQN4ZzM8sfOTlMuGfck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974944341773-99368js18av04j7sj8qqgkskdrbt0v1q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
